@@ -9,4 +9,4 @@ Physical Science 1
 English 8
 
 
-#  11 Total Assignments
+#  10 Total Assignments
