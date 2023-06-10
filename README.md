@@ -6,7 +6,7 @@ Animation 0
 
 Physical Science 0
 
-English 1
+English 0
 
 
-#  1 Total Assignments
+#  FINISHED SCHOOL!!! WOOOO!!!!
