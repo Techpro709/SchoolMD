@@ -6,7 +6,7 @@ Animation 0
 
 Physical Science 0
 
-English 3
+English 1
 
 
-#  3 Total Assignments
+#  1 Total Assignments
